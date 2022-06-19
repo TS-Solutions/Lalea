@@ -315,7 +315,7 @@ a:hover {
 
 .navbar .logo-image img {
     width: 124px;
-	height: 32px;
+	height: auto;
 }
 
 .navbar .logo-text {
